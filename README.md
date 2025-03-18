@@ -8,8 +8,8 @@ Sigue estos pasos para configurar el entorno y ejecutar el proyecto:
 
 ### 1️⃣ **Clonar el repositorio**
 ```sh
- git clone <URL_DEL_REPOSITORIO>
- cd <NOMBRE_DEL_PROYECTO>
+ git clone https://github.com/Urielglb/Vitest-demo.git
+ cd Vitest-demo
 ```
 
 ### 2️⃣ **Instalar dependencias**
