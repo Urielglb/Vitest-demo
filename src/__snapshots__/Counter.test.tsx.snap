@@ -1,0 +1,26 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Counter Component > should match the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="card"
+  >
+    <p>
+      10
+    </p>
+    <button>
+      Increment
+    </button>
+    <button>
+      Decrement
+    </button>
+    <p>
+      Edit 
+      <code>
+        src/App.tsx
+      </code>
+       and save to test HMR
+    </p>
+  </div>
+</DocumentFragment>
+`;
